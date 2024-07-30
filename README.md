@@ -60,5 +60,5 @@ This app is designed to help prevent accidents by alerting drivers when they bec
 2. open terminal and run: "python App.py"
 
 ## License:
--This project is licensed under the MIT License.
--This helps me to provide free and simplistic access to the codebase, while preserving the rights to some of my creative work within this project.
+ - This project is licensed under the MIT License.
+ - This helps me to provide free and simplistic access to the codebase, while preserving the rights to some of my creative work within this project.
