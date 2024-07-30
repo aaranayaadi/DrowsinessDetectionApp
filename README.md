@@ -3,6 +3,11 @@ A YOLOv5 based custom trained model and a GUI application for real-time drowsine
 
 This app is designed to help prevent accidents by alerting drivers when they become drowsy. By using a real-time detection system with an alarm, drivers can be more alert and responsive, potentially averting dangerous situations.
 
+## Video (for demonstration):
+
+https://github.com/user-attachments/assets/bd6c6078-c0fa-4731-b624-37d7d6b00693
+
+
 ## Model Details
 
 - **Labels**: Custom trained on `awake` and `drowsy` labels.
