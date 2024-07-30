@@ -8,7 +8,7 @@ This app is designed to help prevent accidents by alerting drivers when they bec
 - **Labels**: Custom trained on `awake` and `drowsy` labels.
 - **Dataset**: 20 images collected for each label.
 - **Labeling**: Images were labeled using [LabelImg]([https://github.com/HumanSignal/labelImg]) from GitHub.
-- **Training**: Model was trained for 420 epochs (roughly 90 minutes).
+- **Training**: Model was trained for 420 epochs (it took roughly 90 minutes, on an intel core i7 processor (11th gen)).
 
 ### Benefits of YOLOv5
 
