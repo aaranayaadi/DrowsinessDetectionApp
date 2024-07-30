@@ -1,1 +1,3 @@
-Weights for the model have been provided below. These were trained on my facial data for 420 epochs. They might not work perfectly on every facial structure, but will be able to detect the labelled features properly.
+Weights for the model have been provided below. These were trained on my facial data for 420 epochs. 
+They might not work perfectly on every facial structure, but will be able to detect the labelled features properly.
+Use the "best.pt" weights for best accuracy. "last.pt" was created in the last epoch and might not carry the best accuracy
