@@ -1,3 +1,7 @@
+#These are the important lines of codes from DrowsinessDetector.ipynb file. I have provided this file to provide faster
+#access to the code. Please do not run this file directly. Copy blocks of codes in separate cells in a jupyter notebook
+#to run this model.
+
 pip install torch torchvision torchaudio
 
 !git clone https://github.com/ultralytics/yolov5
