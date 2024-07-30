@@ -1,0 +1,1 @@
+Weights for the model have been provided below. These were trained on my facial data for 420 epochs. They might not work perfectly on every facial structure, but will be able to detect the labelled features properly.
