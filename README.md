@@ -33,7 +33,7 @@ This app is designed to help prevent accidents by alerting drivers when they bec
 
 1. **Clone the repository**: Clone this repo by running: git clone https://github.com/aaranayaadi/DrowsinessDetectionApp
 2. **Replace Path**: Replace the source path in `App.py` with the path to the downloaded weights (akready present in the repo under "Weights").
-3. **Run the App**: python App.py
+3. **Run the App**: open the terminal and type "python App.py"
 
 ## Training the model with your own data:
 
