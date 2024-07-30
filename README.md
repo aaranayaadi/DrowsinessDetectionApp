@@ -15,7 +15,7 @@ This app is designed to help prevent accidents by alerting drivers when they bec
 - **Efficiency**: The "You Only Look Once" properties allow the model to stride through each box once to estimate the presence of an object.
 - **Stability**: The model automatically stores the best and last weights separately for user convenience.
 - **Activation Function**: Uses SiLU activation function, which is optimal for object detection.
-- **Dataset**: Labels were added to the predefined COCO dataset for training with noise to avoid underfitting.
+- **Dataset**: Labels were added to the predefined COCO dataset for training with noise to avoid overfitting.
 
 ## Application Features
 
