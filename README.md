@@ -59,4 +59,6 @@ This app is designed to help prevent accidents by alerting drivers when they bec
 1. Replace the path to the weights in App.py with your path.
 2. open terminal and run: "python App.py"
 
-## License: This project is licensed under the MIT license.
+## License:
+-This project is licensed under the MIT License.
+-This helps me to provide free and simplistic access to the codebase, while preserving the rights to some of my creative work within this project.
